@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <title>Mirador</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  </head>
+  <body>
+    <div id="mirador" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></div>
+    <script type="text/javascript" src="https://unpkg.com/mirador@3.0.0-alpha.6"></script>
+    <script type="text/javascript">
+     var miradorInstance = Mirador.viewer({
+       id: 'mirador',
+       windows: [{
+         loadedManifest: 'https://damsssl.llgc.org.uk/iiif/2.0/4624411/manifest.json',
+       },
+       {
+         loadedManifest: 'https://damsssl.llgc.org.uk/iiif/2.0/4624377/manifest.json',
+       },
+       {
+         loadedManifest: 'https://iiif.bodleian.ox.ac.uk/iiif/manifest/e32a277e-91e2-4a6d-8ba6-cc4bad230410.json',
+         canvasIndex: 1,
+       },
+       {
+         loadedManifest: 'https://iiif.bodleian.ox.ac.uk/iiif/manifest/e32a277e-91e2-4a6d-8ba6-cc4bad230410.json',
+         canvasIndex: 10,
+       },
+       {
+         loadedManifest: 'https://iiif.bodleian.ox.ac.uk/iiif/manifest/faeff7fb-f8a7-44b5-95ed-cff9a9ffd198.json',
+         canvasIndex: 75,
+       },
+       {
+         loadedManifest: 'https://damsssl.llgc.org.uk/iiif/2.0/4887640/manifest.json',
+       },
+       {
+         loadedManifest: 'https://damsssl.llgc.org.uk/iiif/2.0/1556378/manifest.json',
+       },
+       {
+         loadedManifest: 'https://damsssl.llgc.org.uk/iiif/2.0/1487439/manifest.json',
+         canvasIndex: 1,
+       }],
+     });
+    </script>
+  </body>
+</html>
