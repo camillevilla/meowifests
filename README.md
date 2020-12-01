@@ -25,5 +25,6 @@ Note: Proper IIIF-ing coming soon
 - [National Library of Wales, Blewog the cat insisting on sleeping with Blaci the cow on Hywel Roberts' farm at Llandderfel](https://damsssl.llgc.org.uk/iiif/2.0/1556378/manifest.json)
 - [National Library of Wales, [A leveret adopted by a cat]](https://damsssl.llgc.org.uk/iiif/2.0/1487439/manifest.json)
 - [American Numismatic Society, Bronze Medal of Society of Medalists, Danbury (Conn.). 1987.159.1](http://numismatics.org/search/manifest/1987.159.1)
-- [Biblissima, Chats - Collection d'ima…et décors de manuscrits](http://beta.biblissima.fr/iiif/manifest/ark:/43093/desc46da9b4e1ce16723d7fd94e8f36b0a6fbb250223)
+- [Biblissima, Chats - Collection d'ima…et décors de manuscrits - canvasIndex 75](http://beta.biblissima.fr/iiif/manifest/ark:/43093/desc46da9b4e1ce16723d7fd94e8f36b0a6fbb250223)
 - [Wikipedia](https://wikipedia-to-iiif.ch.digtest.co.uk/iiif/Cat)
+- [Washington State University, Dog and Cat](https://cdm16866.contentdm.oclc.org/iiif/info/cchm_photo/5342/manifest.json)
