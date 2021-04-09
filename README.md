@@ -28,3 +28,4 @@ Note: Proper IIIF-ing coming soon
 - [Biblissima, Chats - Collection d'ima…et décors de manuscrits - canvasIndex 75](http://beta.biblissima.fr/iiif/manifest/ark:/43093/desc46da9b4e1ce16723d7fd94e8f36b0a6fbb250223)
 - [Wikipedia](https://wikipedia-to-iiif.ch.digtest.co.uk/iiif/Cat)
 - [Washington State University, Dog and Cat](https://cdm16866.contentdm.oclc.org/iiif/info/cchm_photo/5342/manifest.json)
+- [Cat Stuck In Water Pitcher, Hennepin Public Library](https://cdm17208.contentdm.oclc.org/iiif/info/MplsPhotos/23908/manifest.json)
